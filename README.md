@@ -1,6 +1,6 @@
 <img align="center" alt="Coding" width="1000" src="https://raw.githubusercontent.com/vcctm/vcctm/main/x-teambg.gif">
 <h1 align="center">Hi 👋, I'm Karlos Son P. Rivo</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate software developer from Philippines</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ln00isyl&label=Profile%20views&color=0e75b6&style=flat" alt="ln00isyl" /></p>
