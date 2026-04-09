@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ln00isyl&label=Profile%20views&color=0e75b6&style=flat" alt="ln00isyl" /></p>
 
-- 🌱 I’m currently learning **Flutter and Express.js**
+- 🌱 I’m currently learning **Hono.ts and Github Actions**
 
 - 💬 Ask me about **Android**
 
